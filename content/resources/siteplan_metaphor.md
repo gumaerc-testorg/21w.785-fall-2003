@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Handout for presenation on websites as metaphors.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-785-communicating-in-cyberspace-fall-2003/94f95b014084bba6c28e73bf5ed786fa_siteplan_metaphor.pdf
+file: /media/courses/21w-785-communicating-in-cyberspace-fall-2003/94f95b014084bba6c28e73bf5ed786fa_siteplan_metaphor.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Web site planning: metaphor'
 uid: 94f95b01-4084-bba6-c28e-73bf5ed786fa
