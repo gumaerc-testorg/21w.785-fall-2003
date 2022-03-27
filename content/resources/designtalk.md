@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ee233dc3-3184-7fd8-e481-3c76962c1e7a
 resourcetype: Document
 title: Intelligent (Web) Design
 uid: 56886dab-0b5a-0736-db58-c7d6f46617f1

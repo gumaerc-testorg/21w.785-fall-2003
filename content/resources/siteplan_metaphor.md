@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ee233dc3-3184-7fd8-e481-3c76962c1e7a
 resourcetype: Document
 title: 'Web site planning: metaphor'
 uid: 94f95b01-4084-bba6-c28e-73bf5ed786fa

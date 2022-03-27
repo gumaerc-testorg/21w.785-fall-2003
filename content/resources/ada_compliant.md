@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ee233dc3-3184-7fd8-e481-3c76962c1e7a
 resourcetype: Document
 title: Is Your Web Site ADA Compliant?
 uid: d1699257-fb3d-9ad8-d8cb-c75d9aaf287f
