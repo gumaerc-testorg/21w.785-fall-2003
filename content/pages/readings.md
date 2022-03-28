@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: ee233dc3-3184-7fd8-e481-3c76962c1e7a
 ---
@@ -50,7 +51,7 @@ Large-Scale Project Development
 Starting Your Own Business
 {{< tdclose >}}
 {{< tdopen >}}
-Debby Levinson: the development process, audience/client/developer relationship ([PDF]({{< baseurl >}}/resources/designing_user_exp)), websites as metaphors ([PDF]({{< baseurl >}}/resources/siteplan_metaphor)); student project formation.  
+Debby Levinson: the development process, audience/client/developer relationship ({{< resource_link 51beb608-46de-cc51-bc74-ef2bd62fad2a "PDF" >}}), websites as metaphors ({{< resource_link 94f95b01-4084-bba6-c28e-73bf5ed786fa "PDF" >}}); student project formation.  
 Hagan Heller: large-scale project development, starting your own business.
 {{< tdclose >}}
 
@@ -65,7 +66,7 @@ Student Project Formation
 Student Elevator Speeches and Show and Tell
 {{< tdclose >}}
 {{< tdopen >}}
-Courtesy of Jonathan Grall: design concepts ([PDF]({{< baseurl >}}/resources/designtalk)); student project formation continued. Used with permission.  
+Courtesy of Jonathan Grall: design concepts ({{< resource_link 56886dab-0b5a-0736-db58-c7d6f46617f1 "PDF" >}}); student project formation continued. Used with permission.  
 Student elevator speeches and show and tell - students present their initial ideas for a project in the form of a 1-min sales-pitch.
 {{< tdclose >}}
 
