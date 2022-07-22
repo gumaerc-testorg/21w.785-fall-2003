@@ -6,6 +6,7 @@ file: /courses/21w-785-communicating-in-cyberspace-fall-2003/51beb60846decc51bc7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Designing the User Experience
 uid: 51beb608-46de-cc51-bc74-ef2bd62fad2a
 ---
 Slide presentation on the web development process and the audience/client/developer relationship.
-

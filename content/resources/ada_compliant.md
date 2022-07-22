@@ -6,6 +6,7 @@ file: /courses/21w-785-communicating-in-cyberspace-fall-2003/d1699257fb3d9ad8d8c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Is Your Web Site ADA Compliant?
 uid: d1699257-fb3d-9ad8-d8cb-c75d9aaf287f
 ---
 Lecture handout on designing websites that compliant with the Americans with Disabilities Act (ADA).
-

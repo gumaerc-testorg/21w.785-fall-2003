@@ -5,6 +5,7 @@ file: /courses/21w-785-communicating-in-cyberspace-fall-2003/94f95b014084bba6c28
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Web site planning: metaphor'
 uid: 94f95b01-4084-bba6-c28e-73bf5ed786fa
 ---
 Handout for presenation on websites as metaphors.
-
