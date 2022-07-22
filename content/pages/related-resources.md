@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Links directly related to 21W.785, an assortment of excellent websites,
+  examples of poor web design, links to useful technologies for student projects,
+  and a list of useful books.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 8371eb59-4f74-ed77-a09c-ce16b127d2ba
 ---
@@ -11,8 +16,8 @@ Links Directly Related to 21W.785
 [MIT Web Design Guidelines](http://ist.mit.edu/services/web/reference)  
 [Stanford Law School Center for Internet & Society](http://cyberlaw.stanford.edu/)  
 [Writing for the Web](http://www.monash.edu.au/about/editorialstyle/writing/writing-for-web.html) - a helpful page put together by MIT libraries that spells out important considerations when writing online content.  
-[Links to Relevant Technologies]({{< baseurl >}}/pages/related-resources#technologies)  
-[Links to Informative Books]({{< baseurl >}}/pages/related-resources#books)
+{{% resource_link 8371eb59-4f74-ed77-a09c-ce16b127d2ba "Links to Relevant Technologies" "#technologies" %}}  
+{{% resource_link 8371eb59-4f74-ed77-a09c-ce16b127d2ba "Links to Informative Books" "#books" %}}
 
 Assortment of Excellent Websites
 --------------------------------
