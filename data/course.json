@@ -43,14 +43,18 @@
   },
   "course_title": "Communicating in Cyberspace",
   "course_description": "This class covers the analysis, design, implementation and testing of various forms of digital communication based on group collaboration. Students are encouraged to think about the Web and other new digital interactive media not just in terms of technology but also broader issues such as language (verbal and visual), design, information architecture, communication and community. Students work in small groups on a semester-long project of their choice.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.785",
   "course_image_thumbnail": {
     "content": "ee425bf6-2d40-7c00-8f0a-06e9d93062ae",
     "website": "21w-785-communicating-in-cyberspace-fall-2003"
   },
-  "learning_resource_types": [],
-  "site_uid": "f9829ebd-7fa7-4649-b40a-c7709e85ccc2",
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "c19251ff-3af0-4104-bb5b-1c102f2331d0",
   "title": "Course Metadata"
 }
