@@ -81,7 +81,7 @@ Americans with Disabilities Act (ADA) Compliance Issues
 {{< tdclose >}}
 {{< tdopen >}}
 Nicole Hennig: Writing for the Web presentation.  
-Stephani Roberts Lincoln: Americans with Disabilities Act (ADA) compliance issues (PDF), [ATIC Lab](http://web.mit.edu/atic/www/).
+Stephani Roberts Lincoln: Americans with Disabilities Act (ADA) compliance issues (PDF), {{% resource_link "b9ed8be0-0643-4f39-a9d4-e241ead541e2" "ATIC Lab" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
